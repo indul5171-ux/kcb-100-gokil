@@ -1,0 +1,27 @@
+{
+    "classes": [
+        "Clams",
+        "Corals",
+        "Crabs",
+        "Dolphin",
+        "Eel",
+        "Fish",
+        "Jelly Fish",
+        "Lobster",
+        "Nudibranchs",
+        "Octopus",
+        "Otter",
+        "Penguin",
+        "Puffers",
+        "Sea Rays",
+        "Sea Urchins",
+        "Seahorse",
+        "Seal",
+        "Sharks",
+        "Shrimp",
+        "Squid",
+        "Starfish",
+        "Turtle_Tortoise",
+        "Whale"
+    ]
+}
